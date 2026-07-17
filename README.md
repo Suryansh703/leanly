@@ -82,6 +82,8 @@ Generated content quality depends on the source notes and model availability. Th
 
 User accounts and cloud sync, import/export, spaced-repetition scheduling, editable generated content, and automated API/component tests.
 
-## Time spent
+## Made By:
+   Suryansh Shukla
+   [Btech final year student, AI powered Full Stack Developer]
 
-_Add final time spent here._
+
